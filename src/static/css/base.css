@@ -1,0 +1,26 @@
+h1 {
+    color: black;
+    font-family: 'Josefin Slab', serif;
+}
+
+.wmd-panel{
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+
+.comment-reply{
+    display:none;
+}
+body {
+	/*background-color: e6e6e6;*/
+	/*background-color: #417690;*/
+	background-image : "{% static 'images/download.jpeg' %}" height="200px" width="200px";
+	background-repeat: repeat-y;
+}
+
+.snt_background {
+	background : "";
+}
+/*.navbar {
+	background: #417690 !important; 
+}*/
